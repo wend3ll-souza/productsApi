@@ -17,6 +17,12 @@
             "name": "Waffle",
             "price": 2,
             "imagePath": "https://github.com/wend3ll-souza/marketProductsImages/blob/master/img/5906747172459.jpg?raw=true"
+        },
+        { 
+            "id": "product4",
+            "name": "Castania",
+            "price": 10,
+            "imagePath": "https://github.com/wend3ll-souza/marketProductsImages/blob/master/img/5281009276329.jpg?raw=true"
         }
     ]
 }
