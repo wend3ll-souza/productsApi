@@ -1,0 +1,22 @@
+{
+    "products": [
+        { 
+            "id": "product1",
+            "name": "Box Roberto Carlos",
+            "price": 25,
+            "imagePath": "https://github.com/wend3ll-souza/marketProductsImages/blob/master/img/5099751568599.jpg?raw=true"
+        },
+        { 
+            "id": "product2",
+            "name": "Micro SD",
+            "price": 20,
+            "imagePath": "https://github.com/wend3ll-souza/marketProductsImages/blob/master/img/5390800083439.jpg?raw=true"
+        },
+        { 
+            "id": "product3",
+            "name": "Waffle",
+            "price": 2,
+            "imagePath": "https://github.com/wend3ll-souza/marketProductsImages/blob/master/img/5906747172459.jpg?raw=true"
+        }
+    ]
+}
